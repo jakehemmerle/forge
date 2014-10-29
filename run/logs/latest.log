@@ -1,12 +1,39 @@
-[21:35:33] [main/INFO]: Setting user: Player104
-[21:35:34] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:35:34] [Client thread/ERROR]: Couldn't initialize twitch stream
-[21:35:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod!, FMLFileResourcePack:Simple Stuff
-[21:35:38] [Sound Library Loader/INFO]: Sound engine started
-[21:35:38] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:35:38] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:35:38] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod!, FMLFileResourcePack:Simple Stuff
-[21:35:38] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:35:38] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:35:39] [Sound Library Loader/INFO]: Sound engine started
-[21:37:40] [Client thread/INFO]: Stopping!
+[15:49:58] [main/INFO]: Setting user: Player838
+[15:49:59] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:49:59] [Client thread/ERROR]: Couldn't initialize twitch stream
+[15:50:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod!, FMLFileResourcePack:Simple Stuff
+[15:50:03] [Sound Library Loader/INFO]: Sound engine started
+[15:50:03] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:50:03] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:50:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod!, FMLFileResourcePack:Simple Stuff
+[15:50:04] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:50:04] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:50:05] [Sound Library Loader/INFO]: Sound engine started
+[15:50:12] [Client thread/INFO]: Deleting level New World
+[15:50:12] [Client thread/INFO]: Attempt 1...
+[15:50:14] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:50:14] [Server thread/INFO]: Generating keypair
+[15:50:14] [Server thread/INFO]: Converting map!
+[15:50:14] [Server thread/INFO]: Scanning folders...
+[15:50:14] [Server thread/INFO]: Total conversion count is 0
+[15:50:15] [Server thread/INFO]: Preparing start region for level 0
+[15:50:16] [Server thread/INFO]: Preparing spawn area: 12%
+[15:50:17] [Server thread/INFO]: Preparing spawn area: 32%
+[15:50:18] [Server thread/INFO]: Preparing spawn area: 53%
+[15:50:19] [Server thread/INFO]: Preparing spawn area: 75%
+[15:50:20] [Server thread/INFO]: Changing view distance to 12, from 10
+[15:50:20] [Server thread/INFO]: Player838[local:E:16bcd8ff] logged in with entity id 74 at (112.5, 68.0, 260.5)
+[15:50:20] [Server thread/INFO]: Player838 joined the game
+[15:50:24] [Server thread/INFO]: Player838 has just earned the achievement [Taking Inventory]
+[15:50:24] [Client thread/INFO]: [CHAT] Player838 has just earned the achievement [Taking Inventory]
+[15:53:10] [Client thread/INFO]: Stopping!
+[15:53:10] [Server thread/INFO]: Stopping server
+[15:53:10] [Server thread/INFO]: Saving players
+[15:53:10] [Server thread/INFO]: Saving worlds
+[15:53:10] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:53:10] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:53:10] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:53:11] [Client Shutdown Thread/INFO]: Stopping server
+[15:53:11] [Client Shutdown Thread/INFO]: Saving players
+[15:53:11] [Client Shutdown Thread/INFO]: Saving worlds
+[15:53:11] [Client Shutdown Thread/INFO]: Saving chunks for level 'New World'/Overworld
