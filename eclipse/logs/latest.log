@@ -1,0 +1,43 @@
+[11:29:09] [main/INFO]: Setting user: jakelikescake123
+[11:29:10] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:29:11] [Client thread/ERROR]: Couldn't initialize twitch stream
+[11:29:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod!, FMLFileResourcePack:Simple Stuff
+[11:29:14] [Sound Library Loader/INFO]: Sound engine started
+[11:29:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:29:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:29:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod!, FMLFileResourcePack:Simple Stuff
+[11:29:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:29:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:29:15] [Sound Library Loader/INFO]: Sound engine started
+[11:30:17] [Client thread/INFO]: Deleting level New World
+[11:30:17] [Client thread/INFO]: Attempt 1...
+[11:30:20] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:30:20] [Server thread/INFO]: Generating keypair
+[11:30:20] [Server thread/INFO]: Converting map!
+[11:30:20] [Server thread/INFO]: Scanning folders...
+[11:30:20] [Server thread/INFO]: Total conversion count is 0
+[11:30:22] [Server thread/INFO]: Preparing start region for level 0
+[11:30:23] [Server thread/INFO]: Preparing spawn area: 18%
+[11:30:24] [Server thread/INFO]: Preparing spawn area: 41%
+[11:30:25] [Server thread/INFO]: Preparing spawn area: 66%
+[11:30:26] [Server thread/INFO]: Preparing spawn area: 93%
+[11:30:26] [Server thread/INFO]: Changing view distance to 8, from 10
+[11:30:26] [Server thread/INFO]: jakelikescake123[local:E:e4d8c2e4] logged in with entity id 98 at (-141.5, 64.0, -213.5)
+[11:30:26] [Server thread/INFO]: jakelikescake123 joined the game
+[11:30:29] [Server thread/INFO]: jakelikescake123 has just earned the achievement [Taking Inventory]
+[11:30:29] [Client thread/INFO]: [CHAT] jakelikescake123 has just earned the achievement [Taking Inventory]
+[11:31:30] [Server thread/INFO]: Saving and pausing game...
+[11:31:30] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:31:30] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:31:30] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[11:32:03] [Server thread/INFO]: Saving and pausing game...
+[11:32:03] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:32:03] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:32:03] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[11:32:08] [Client thread/INFO]: Stopping!
+[11:32:08] [Server thread/INFO]: Stopping server
+[11:32:08] [Server thread/INFO]: Saving players
+[11:32:08] [Server thread/INFO]: Saving worlds
+[11:32:08] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:32:08] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:32:08] [Server thread/INFO]: Saving chunks for level 'New World'/The End
