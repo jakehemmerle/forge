@@ -76,7 +76,7 @@
     <option name="mySupportsUserInfoFilter" value="true" />
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="libraryTable">
     <library name="Gradle: _home_jake__gradle_caches_minecraft_net_minecraftforge_forge_1_7_10_10_13_2_1230_start">
