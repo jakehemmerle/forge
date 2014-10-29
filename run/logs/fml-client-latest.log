@@ -779,11 +779,11 @@
 [15:50:00] [Client thread/DEBUG] [FML/]: Examining directory main for potential mods
 [15:50:00] [Client thread/DEBUG] [FML/]: Found an mcmod.info file in directory main
 [15:50:00] [Client thread/TRACE] [FML/]: Recursing into package assets
-[15:50:00] [Client thread/TRACE] [FML/]: Recursing into package assets.letsmod
-[15:50:00] [Client thread/TRACE] [FML/]: Recursing into package assets.letsmod.lang
-[15:50:00] [Client thread/TRACE] [FML/]: Recursing into package assets.letsmod.textures
-[15:50:00] [Client thread/TRACE] [FML/]: Recursing into package assets.letsmod.textures.blocks
-[15:50:00] [Client thread/TRACE] [FML/]: Recursing into package assets.letsmod.textures.items
+[15:50:00] [Client thread/TRACE] [FML/]: Recursing into package assets.jakehemmerle
+[15:50:00] [Client thread/TRACE] [FML/]: Recursing into package assets.jakehemmerle.lang
+[15:50:00] [Client thread/TRACE] [FML/]: Recursing into package assets.jakehemmerle.textures
+[15:50:00] [Client thread/TRACE] [FML/]: Recursing into package assets.jakehemmerle.textures.blocks
+[15:50:00] [Client thread/TRACE] [FML/]: Recursing into package assets.jakehemmerle.textures.items
 [15:50:00] [Client thread/TRACE] [FML/]: Recursing into package com
 [15:50:00] [Client thread/TRACE] [FML/]: Recursing into package com.jakehemmerle
 [15:50:00] [Client thread/TRACE] [FML/]: Recursing into package com.jakehemmerle.letsmod

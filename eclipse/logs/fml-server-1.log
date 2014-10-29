@@ -728,14 +728,14 @@
 [00:40:29] [Server thread/DEBUG] [FML/]: Examining directory bin for potential mods
 [00:40:29] [Server thread/DEBUG] [FML/]: Found an mcmod.info file in directory bin
 [00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets
-[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.letsmod
-[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.letsmod.lang
-[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.letsmod.models
-[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.letsmod.sounds
-[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.letsmod.textures
-[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.letsmod.textures.blocks
-[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.letsmod.textures.gui
-[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.letsmod.textures.items
+[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.jakehemmerle
+[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.jakehemmerle.lang
+[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.jakehemmerle.models
+[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.jakehemmerle.sounds
+[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.jakehemmerle.textures
+[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.jakehemmerle.textures.blocks
+[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.jakehemmerle.textures.gui
+[00:40:29] [Server thread/TRACE] [FML/]: Recursing into package assets.jakehemmerle.textures.items
 [00:40:29] [Server thread/TRACE] [FML/]: Recursing into package com
 [00:40:29] [Server thread/TRACE] [FML/]: Recursing into package com.jakehemmerle
 [00:40:29] [Server thread/TRACE] [FML/]: Recursing into package com.jakehemmerle.letsmod
