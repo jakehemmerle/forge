@@ -6,6 +6,7 @@
 #idea
 /.idea
 *.iml
+*.iws
 
 #gradle
 /build
@@ -19,5 +20,9 @@
 #Patch rejects
 *.rej
 /patches-/
+
 #FML changelog
 changelog.txt
+
+#world
+/run
