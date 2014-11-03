@@ -1,7 +1,6 @@
 package com.jakehemmerle.letsmod;
 
 import com.jakehemmerle.letsmod.init.ModBlocks;
-import net.minecraft.block.Block;
 
 import com.jakehemmerle.letsmod.handler.ConfigurationHandler;
 import com.jakehemmerle.letsmod.init.ModItems;
@@ -15,7 +14,7 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
-import cpw.mods.fml.common.registry.GameRegistry;
+import net.minecraftforge.oredict.OreDictionary;
 
 @Mod(modid=Reference.MOD_ID, name=Reference.MOD_NAME, version=Reference.VERSION, guiFactory=Reference.GUI_FACTORY_CLASS)
 public class LetsMod {
@@ -49,7 +48,11 @@ public class LetsMod {
 	
 	@Mod.EventHandler
 	public void postInit(FMLPostInitializationEvent event) {
-		
+
+        for (String oreName : OreDictionary.getOreNames()) {
+            LogHelper.info(oreName);
+        }
+
 		LogHelper.info("Post initialization Complete.");
 	}
 	
