@@ -1,5 +1,6 @@
 package com.jakehemmerle.letsmod;
 
+import com.jakehemmerle.letsmod.client.handler.KeybindingInputEventHandler;
 import com.jakehemmerle.letsmod.init.ModBlocks;
 
 import com.jakehemmerle.letsmod.handler.ConfigurationHandler;
@@ -14,7 +15,6 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
-import net.minecraftforge.oredict.OreDictionary;
 
 @Mod(modid=Reference.MOD_ID, name=Reference.MOD_NAME, version=Reference.VERSION, guiFactory=Reference.GUI_FACTORY_CLASS)
 public class LetsMod {
@@ -31,6 +31,8 @@ public class LetsMod {
 		ConfigurationHandler.init(event.getSuggestedConfigurationFile());
 		FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 
+        proxy.registerKeybindings();
+
         ModItems.init();
         ModBlocks.init();
 
@@ -41,17 +43,14 @@ public class LetsMod {
 	
 	@Mod.EventHandler
 	public void init(FMLInitializationEvent event) {
-		
+
+        FMLCommonHandler.instance().bus().register(new KeybindingInputEventHandler());
 		LogHelper.info("Initialization Complete.");
 	}
 	
 	
 	@Mod.EventHandler
 	public void postInit(FMLPostInitializationEvent event) {
-
-        for (String oreName : OreDictionary.getOreNames()) {
-            LogHelper.info(oreName);
-        }
 
 		LogHelper.info("Post initialization Complete.");
 	}

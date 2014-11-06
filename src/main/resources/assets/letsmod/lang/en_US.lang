@@ -1,2 +1,13 @@
+# Keys
+key.letsmod.category= Let's Mod
+key.letsmod.charge=Charge
+key.letsmod.release=Release
+
+# Creative Tabs
+itemGroup.letsmod=Let's Mod
+
+# Items
 item.letsmod:mapleLeaf.name=Maple Leaf
+
+# Blocks
 tile.letsmod:flag.name=American Flag
