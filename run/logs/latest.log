@@ -1,13 +1,32 @@
-[20:09:53] [main/INFO]: Setting user: Player79
-[20:09:54] [Client thread/INFO]: LWJGL Version: 2.9.1
-[20:09:54] [Client thread/ERROR]: Couldn't initialize twitch stream
-[20:09:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Jake Hemmerle's Motherfucking Mod
-[20:09:58] [Sound Library Loader/INFO]: Sound engine started
-[20:09:58] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[20:09:58] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[20:09:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Jake Hemmerle's Motherfucking Mod
-[20:09:58] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[20:09:58] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[20:09:59] [Sound Library Loader/INFO]: Sound engine started
-[20:10:06] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[20:10:06] [Server thread/INFO]: Generating keypair
+[22:40:47] [main/INFO]: Setting user: Player90
+[22:40:48] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:40:48] [Client thread/ERROR]: Couldn't initialize twitch stream
+[22:40:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod!
+[22:40:52] [Sound Library Loader/INFO]: Sound engine started
+[22:40:52] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:40:52] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:40:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod!
+[22:40:52] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:40:52] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:40:53] [Sound Library Loader/INFO]: Sound engine started
+[22:40:55] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:40:55] [Server thread/INFO]: Generating keypair
+[22:40:55] [Server thread/INFO]: Preparing start region for level 0
+[22:40:56] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:40:56] [Server thread/INFO]: Player90[local:E:ae8f48dc] logged in with entity id 268 at (167.5, 70.0, 260.5)
+[22:40:56] [Server thread/INFO]: Player90 joined the game
+[22:40:57] [Server thread/INFO]: Saving and pausing game...
+[22:40:57] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:40:57] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:40:57] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:41:00] [Server thread/INFO]: Saving and pausing game...
+[22:41:00] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:41:00] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:41:00] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:41:00] [Server thread/INFO]: Stopping server
+[22:41:00] [Server thread/INFO]: Saving players
+[22:41:00] [Server thread/INFO]: Saving worlds
+[22:41:00] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:41:00] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:41:00] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:41:02] [Client thread/INFO]: Stopping!
